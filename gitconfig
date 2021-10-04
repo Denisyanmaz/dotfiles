@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = denis.yanmaz.dy@gmail.com
+	name = Denis Yanmaz
